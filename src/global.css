@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Agrandir+Variable:wght@400;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=MuseoModerno:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-mulish: Mulish;
+  --font-inter: Inter;
+  --font-agrandir-variable: "Agrandir Variable";
+  --font-museomoderno: MuseoModerno;
+  --font-urbanist: Urbanist;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-109xl: 128px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --font-size-45xl: 64px;
+  --font-size-21xl: 40px;
+  --font-size-sm: 14px;
+  --font-size-13xl: 32px;
+  --font-size-base: 16px;
+  --font-size-5xs: 8px;
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+  --font-size-8xs: 5px;
+  --font-size-51xl: 70px;
+
+  /* Colors */
+  --color-floralwhite: #fcfdf3;
+  --color-darkolivegreen-100: #4f772d;
+  --color-darkolivegreen: #31572c;
+  --color-white: #fff;
+  --color-darkkhaki: #90a955;
+  --color-khaki: #ecf39e;
+  --color-khaki-100: #cdd575;
+  --color-khaki-200: rgba(236, 243, 158, 0.2);
+  --color-darkslategray: #132a13;
+  --color-darkorange: #ea7e00;
+  --color-gray-100: #fbfbf9;
+  --color-gray-200: rgba(255, 255, 255, 0.3);
+  --color-gray: rgba(255, 255, 255, 0.2);
+  --color-gray-300: rgba(255, 255, 255, 0);
+  --color-sienna: #99582a;
+  --color-darkgoldenrod: #b78c10;
+  --color-beige: #dce5d6;
+  --color-black: #000;
+  --color-whitesmoke: #f0f4ee;
+  --color-cadetblue: #6b9080;
+  --color-lightgray: #becec7;
+  --color-steelblue-100: #0075bb;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-41xl: 60px;
+  --br-xs: 12px;
+  --br-3xs: 10px;
+  --br-21xl: 40px;
+  --br-181xl: 200px;
+  --br-xl: 20px;
+  --br-8xs: 5px;
+}

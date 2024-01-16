@@ -1,0 +1,507 @@
+.rectangle-div {
+  position: absolute;
+  top: 34px;
+  left: 0 ;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 581.5px;
+  height: 655px;
+}
+.already-registered1 {
+  color: var(--color-darkkhaki);
+}
+.login1 {
+  color: var(--color-darkolivegreen-200);
+}
+.already-registered-container1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 663.9px;
+  left: calc(50% - 128.85px);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-agrandir-variable);
+  text-align: left;
+  display: inline-block;
+  width: 248.6px;
+  height: 20.4px;
+}
+.login-btn-item {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 110.8px);
+  border-radius: var(--br-xs);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--color-darkkhaki);
+  box-sizing: border-box;
+  width: 221.6px;
+  height: 48.5px;
+}
+.sign-up1 {
+  position: absolute;
+  top: 14.6px;
+  left: 81px;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  font-family: var(--font-agrandir-variable);
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  width: 77.5px;
+  height: 20.4px;
+}
+.login-btn1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 599.8px;
+  left: calc(50% - 124.35px);
+  width: 221.6px;
+  height: 48.5px;
+}
+.blood-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 121.8px;
+  height: 20.4px;
+}
+.blood-grp-form-child {
+  position: absolute;
+  top: 24.3px;
+  left: 0.1px;
+  border-radius: var(--br-xs);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--color-darkkhaki);
+  box-sizing: border-box;
+  width: 165.6px;
+  height: 46.9px;
+}
+.you-want-to {
+  position: absolute;
+  top: 0.4px;
+  left: 22.9px;
+  display: inline-block;
+  width: 143.2px;
+  height: 12.7px;
+}
+.check-box,
+.check-box1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 15.8px;
+  height: 12.7px;
+}
+.check-box {
+  top: 82.3px;
+  left: 0.1px;
+  width: 166.1px;
+  height: 13.1px;
+  font-size: var(--font-size-xs);
+}
+.blood-grp-form {
+  position: absolute;
+  top: 487.2px;
+  left: 345px;
+  width: 166.2px;
+  height: 95.5px;
+  color: var(--color-black);
+}
+.password1 {
+  position: absolute;
+  top: 0;
+  left: 2.3px;
+  display: inline-block;
+  width: 100.6px;
+  height: 20.4px;
+}
+.password-form-item {
+  position: absolute;
+  top: 23.6px;
+  left: 0;
+  border-radius: var(--br-xs);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--color-darkkhaki);
+  box-sizing: border-box;
+  width: 246.3px;
+  height: 50.8px;
+}
+.lock-fill0-wght400-grad0-opsz2-icon1 {
+  position: absolute;
+  top: 39.5px;
+  left: 9.1px;
+  width: 19.8px;
+  height: 19.1px;
+  overflow: hidden;
+}
+.email-form-item,
+.password-form1 {
+  position: absolute;
+  top: 484px;
+  left: 43.7px;
+  width: 246.3px;
+  height: 74.5px;
+}
+.email-form-item {
+  top: 25.5px;
+  left: 0;
+  border-radius: var(--br-xs);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--color-darkkhaki);
+  box-sizing: border-box;
+  width: 467px;
+  height: 50.8px;
+}
+.email1 {
+  position: absolute;
+  top: 0;
+  left: 2.5px;
+  display: inline-block;
+  width: 49.3px;
+  height: 25.2px;
+}
+.mail-fill0-wght400-grad0-opsz2-icon1 {
+  position: absolute;
+  top: 41.4px;
+  left: 9.1px;
+  width: 19.8px;
+  height: 19.1px;
+  overflow: hidden;
+}
+.email-form1,
+.name-form-item {
+  position: absolute;
+  top: 397.9px;
+  left: 43.7px;
+  width: 467px;
+  height: 76.3px;
+}
+.name-form-item {
+  top: 25.7px;
+  left: 0;
+  border-radius: var(--br-xs);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--color-darkkhaki);
+  box-sizing: border-box;
+  height: 50.8px;
+}
+.name1 {
+  position: absolute;
+  top: 0;
+  left: 2.5px;
+  display: inline-block;
+  width: 55.3px;
+  height: 25.2px;
+}
+.person-fill0-wght400-grad0-ops-icon1 {
+  position: absolute;
+  top: 41.6px;
+  left: 9.1px;
+  width: 19.8px;
+  height: 19.1px;
+  overflow: hidden;
+}
+.name-form1 {
+  position: absolute;
+  top: 313.5px;
+  left: 43.7px;
+  width: 467px;
+  height: 76.5px;
+}
+.google-signin-btn-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: transparent;
+  width: 52.7px;
+  height: 50.8px;
+}
+.group-icon {
+  position: absolute;
+  height: 80.12%;
+  width: 80.08%;
+  top: 10.04%;
+  right: 9.87%;
+  bottom: 9.84%;
+  left: 10.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.google-signin-btn {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 52.7px;
+  height: 50.8px;
+}
+.facebook-circle-1,
+.vector-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 82.87%;
+  width: 83.3%;
+  top: 8.27%;
+  right: 8.35%;
+  bottom: 8.86%;
+  left: 8.35%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.facebook-circle-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 72.5px;
+  width: 52.7px;
+  height: 50.8px;
+}
+.other-signup-options {
+  position: absolute;
+  top: 215px;
+  left: 226px;
+  width: 125.2px;
+  height: 50.8px;
+}
+.line-div,
+.sign-up-section-child1 {
+  position: absolute;
+  top: 297.4px;
+  left: 19.3px;
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 206.9px;
+  height: 1px;
+}
+.sign-up-section-child1 {
+  left: 328.1px;
+}
+.or1,
+.registering-as-volunteer {
+  position: absolute;
+  top: 283.3px;
+  left: 265.5px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 38.2px;
+  height: 24.3px;
+}
+.registering-as-volunteer {
+  top: 23.3px;
+  left: 25px;
+  font-size: var(--font-size-51xl);
+  font-weight: 900;
+  font-family: var(--font-mulish);
+  width: 509.2px;
+  height: 170.8px;
+}
+.sign-up-section1 {
+  position: absolute;
+  top: 12px;
+  left: 700px;
+  width: 581.5px;
+  height: 700px;
+}
+.pexels-cottonbro-studio-6591151 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 492.5px;
+  height: 500px;
+}
+.logo-item,
+.s1 {
+  position: absolute;
+}
+.logo-item {
+  height: 112.42%;
+  width: 111.99%;
+  top: 0;
+  right: 12%;
+  bottom: -12.42%;
+  left: 13;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.s1 {
+  height: 10.4%;
+  width: 6.45%;
+  top: 53.26%;
+  left: 14.84%;
+  transform: rotate(79.15deg);
+}
+.a3,
+.m1,
+.s1 {
+  font-weight: 600;
+  display: inline-block;
+  transform-origin: 0 0;
+}
+.a3 {
+  position: absolute;
+  height: 10.25%;
+  width: 6.45%;
+  top: 65.37%;
+  left: 18.14%;
+  transform: rotate(58.16deg);
+}
+.m1 {
+  height: 10.09%;
+  width: 8.25%;
+  top: 75.47%;
+  left: 25.34%;
+  transform: rotate(36.5deg);
+}
+.a4,
+.d1,
+.m1,
+.u1 {
+  position: absolute;
+}
+.u1 {
+  height: 10.09%;
+  width: 4.95%;
+  top: 82.92%;
+  left: 37.18%;
+  font-weight: 600;
+  display: inline-block;
+  transform: rotate(16.47deg);
+  transform-origin: 0 0;
+}
+.a4,
+.d1 {
+  width: 6.6%;
+}
+.d1 {
+  height: 9.94%;
+  top: 85.4%;
+  left: 47.98%;
+  font-weight: 600;
+  display: inline-block;
+  transform: rotate(-2.19deg);
+  transform-origin: 0 0;
+}
+.a4 {
+  height: 10.09%;
+  top: 83.85%;
+  left: 60.42%;
+  transform: rotate(-22deg);
+}
+.a4,
+.a5,
+.y1 {
+  font-weight: 600;
+  display: inline-block;
+  transform-origin: 0 0;
+}
+.a5 {
+  position: absolute;
+  height: 10.09%;
+  width: 6.6%;
+  top: 77.95%;
+  left: 71.36%;
+  transform: rotate(-42.15deg);
+}
+.y1 {
+  height: 10.25%;
+  width: 4.8%;
+  top: 68.63%;
+  left: 79.76%;
+  transform: rotate(-61.63deg);
+}
+.e1,
+.logo1,
+.y1 {
+  position: absolute;
+}
+.e1 {
+  height: 10.4%;
+  width: 4.8%;
+  top: 58.39%;
+  left: 84.11%;
+  font-weight: 600;
+  display: inline-block;
+  transform: rotate(-80.32deg);
+  transform-origin: 0 0;
+}
+.logo1 {
+  height: 9.04%;
+  width: 13.54%;
+  top: 2.57%;
+  right: 83.61%;
+  bottom: 88.38%;
+  left: 2.84%;
+}
+.sign-up-video1 {
+  position: absolute;
+  top: 36px;
+  left: 150px;
+  width: 492.5px;
+  height: 700px;
+  font-size: var(--font-size-8xs);
+  color: var(--color-darkolivegreen-200);
+  font-family: var(--font-mulish);
+}
+.sign-up-video3 {
+  position: absolute;
+  top: 36px;
+  left: 160px;
+  width: 492.5px;
+  height: 500px;
+  font-size: var(--font-size-8xs);
+  color: var(--color-darkolivegreen-200);
+}
+.rectangle-textfield,
+.signupvolunteer-child,
+.signupvolunteer-inner,
+.signupvolunteer-item {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 362px;
+  left: 783px;
+}
+.rectangle-textfield,
+.signupvolunteer-inner,
+.signupvolunteer-item {
+  top: 444px;
+}
+.rectangle-textfield,
+.signupvolunteer-inner {
+  top: 533px;
+  left: 783px;
+}
+.rectangle-textfield {
+  left: 1057px;
+}
+.signupvolunteer {
+  background-color: var(--color-white);
+  width: 1200px;
+  height: 800px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-agrandir-variable);
+  border-radius: 20px;
+}

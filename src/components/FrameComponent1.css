@@ -1,0 +1,70 @@
+.group-child41 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 116px;
+  height: 120px;
+}
+.settings {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 38px;
+  left: 17px;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-family: var(--font-urbanist);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 49.6px;
+  height: 16.5px;
+}
+.login2 {
+  top: 78px;
+  left: 18px;
+  width: 29.5px;
+  height: 16.5px;
+}
+.login2,
+.profile1,
+.sign-up2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-family: var(--font-urbanist);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.profile1 {
+  top: 16.5px;
+  left: 18px;
+  width: 40.1px;
+  height: 16.5px;
+}
+.sign-up2 {
+  top: 59px;
+  left: 17px;
+}
+.vector-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 116px;
+  height: 120px;
+}
+.group-top {
+  width: 116px;
+  height: 120px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+}
